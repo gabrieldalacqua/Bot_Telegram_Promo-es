@@ -149,7 +149,7 @@ Por Apenas: R$89,99
 
 ## 📝 Licença
 
-MIT License — livre para uso pessoal.
+PolyForm Noncommercial License 1.0.0
 
 ---
 
